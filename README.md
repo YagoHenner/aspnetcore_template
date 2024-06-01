@@ -1,3 +1,2 @@
-# regressiva
+# C# e ASP.NET Core Template
 
-Renovação da aplicação "Regressiva" utilizada pelo master, jornalismo e todo mundo importante
